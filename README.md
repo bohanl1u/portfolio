@@ -1,6 +1,6 @@
 # Welcome to my personal website
 
-Visit the live version <a href="bohan-liu.com">here</a>
+Visit the live version <a href="http://www.bohan-liu.com">here</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
