@@ -1,4 +1,4 @@
-# Welcome to my personal website
+# Welcome to my personal website!
 
 Visit the live version <a href="http://www.bohan-liu.com">here</a>
 
