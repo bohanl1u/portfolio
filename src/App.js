@@ -22,7 +22,7 @@ function App() {
           (window.location="/projects")}/>
         <Route path="/battleship" render={() => (window.open("https://github.com/jimmybliu/BattleShip", "_blank")) 
           (window.location="/projects")}/>
-        <Route path="/website" render={() => (window.open("https://github.com/jimmybliu/BattleShip", "_blank")) 
+        <Route path="/website" render={() => (window.open("https://github.com/jimmybliu/personal-website", "_blank")) 
           (window.location="/projects")}/>
         
 
