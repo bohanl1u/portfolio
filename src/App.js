@@ -16,6 +16,7 @@ function App() {
         <Route path='/about' exact component={About} />
         <Route path='/projects' exact component={Projects} />
         <Route path='/contact' exact component={Contact} />
+
         <Route path="/rogueline" render={() => (window.open("https://itch.io/jam/gmtk-2019/rate/463304", "_blank")) 
           (window.location="/projects")}/>
         <Route path="/alexasl" render={() => (window.open("https://github.com/jimmybliu/Sign-Language", "_blank")) 
@@ -24,6 +25,13 @@ function App() {
           (window.location="/projects")}/>
         <Route path="/website" render={() => (window.open("https://github.com/jimmybliu/personal-website", "_blank")) 
           (window.location="/projects")}/>
+
+        <Route path="/github" render={() => (window.open("https://github.com/jimmybliu/", "_blank")) 
+          (window.location="/contact")}/>
+        <Route path="/linkedin" render={() => (window.open("https://www.linkedin.com/in/itsbohan-liu/", "_blank")) 
+          (window.location="/contact")}/>
+        <Route path="/email" render={() => (window.open("mailto:jimmybliu@gmail.com", "_blank")) 
+          (window.location="/contact")}/>
         
 
      </Switch>

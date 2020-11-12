@@ -10,22 +10,21 @@ function ContactCards() {
           <ul className='cards__items'>
             <CardItem
               src='images/img-linkedin.jpg'
-              text='Link: linkedin....'
+              text='View my profile:'
               label='LinkedIn'
-              path='/bitly.'
+              path='/linkedin'
             />
             <CardItem
               src='images/img-black.jpg'
-              text='Link: github.io'
+              text='Here is a link to my public repos:'
               label='Github'
-              path='/bitly.'
+              path='/github'
             />
             <CardItem
               src='images/img-mail.jpg'
-              text='Email: jimmybliu@gmail.com\n
-                    Phone: 408-642-9916'
-              label='Email & Phone Number'
-              path='/bitly.email'
+              text='jimmybliu@gmail.com'
+              label='Email'
+              path='/email'
             />
           </ul>
           
