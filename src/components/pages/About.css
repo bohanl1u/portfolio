@@ -24,4 +24,30 @@ video {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-bottom: 50px;
 }
+
+.Resume {
+    height: 100vh;
+    width: 100vh;
+    align-items: center;
+    display: flex;
+    padding-left: 25%;
+}
+
+iframe {
+    align-self: center;
+    height:900px;
+    width: 1000px;
+    
+}
+
+@media only screen and (max-width: 900px) {
+    .Resume {
+        padding-left: 15vh;
+      width: 20%;
+    }
+    iframe{
+        height: 450px;
+    }
+  }

@@ -32,7 +32,7 @@ function HeroCards() {
               src='images/img-4.jpg'
               text='Check out the source code for this website:'
               label='React JS'
-              path='/source code'
+              path='/website'
             />
           </ul>
         </div>
