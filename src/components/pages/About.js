@@ -16,7 +16,7 @@ export default function About(){
         </div>
         </div>
         <div className="Resume">
-        <iframe src="https://drive.google.com/file/d/1RgmZV5JZXq2JW-O657YO-aMRCpsK0ndT/preview"></iframe>
+            <iframe src="https://drive.google.com/file/d/1RgmZV5JZXq2JW-O657YO-aMRCpsK0ndT/preview"></iframe>
         </div>
         </>
     )
