@@ -19,7 +19,7 @@ function ProjectCards() {
             />
             <CardItem
               src='images/img-asl.jpg'
-              text='Sign language processing to communicate with Amazon Alexa, won best technology at SacHacks 2018'
+              text='Sign language processing to communicate with Amazon Alexa, won best hardware at SacHacks 2018'
               label='AlexaSL'
               path='/alexasl'
             />
@@ -27,7 +27,7 @@ function ProjectCards() {
           <ul className='cards__items'>
             <CardItem
               src='images/img-battleship.jpg'
-              text='Implemenation of popular board game Battleship using C++ and the MVC model'
+              text='Implemenation of popular board game Battleship using C++ and MVC framework'
               label='Battleship'
               path='/battleship'
             />
