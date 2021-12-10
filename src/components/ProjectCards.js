@@ -19,7 +19,7 @@ function ProjectCards() {
             />
             <CardItem
               src='images/img-asl.jpg'
-              text='Sign language processing to communicate with Amazon Alexa, won best hardware at SacHacks 2018'
+              text='Sign laalguage processing to communicate with Amazon Alexa, won best hardware at SacHacks 2018'
               label='AlexaSL'
               path='/alexasl'
             />
